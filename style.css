@@ -1,0 +1,18 @@
+body{
+ background-color: #140e30 ;
+}
+#h{
+    font-family: 'Acme', sans-serif;
+    color: blueviolet;
+}
+button{
+    background-color: goldenrod;
+    font-style: italic;
+    size: 600px
+}
+img{
+    width: 200px;
+}
+h1{
+    font-size: 200px;
+}

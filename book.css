@@ -1,0 +1,40 @@
+
+#RMC{
+    background:linear-gradient(yellow,blue);
+}
+body{
+    background:linear-gradient(red,blue);
+}
+#RM1{
+    background:linear-gradient(brown,blue);
+}
+img{
+    width: 200px;
+}
+#RM1C{
+    width: 200px;
+    border-width: 200px;
+    border-color:brown;
+    border-style: groove;
+}
+#RMCC{
+    width: 200px;
+    border-width: 200px;
+    border-color:gold;
+    border-style: groove;
+}
+#button{
+    width: 100px;
+    background-color: red;
+    color: blue;
+    font-size: 30px;
+    
+}
+#RM2C{
+    border-color: blue;
+    border-style: groove;
+    border-width: 200px;
+}
+#RM2{
+ background:linear-gradient(blue,navy) ;
+}

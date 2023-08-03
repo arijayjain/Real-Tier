@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+    border: 40px;
+    border-color: blue;
+    border-style: dotted;
+}
+
+h2 {
+    color: green;
+    font-family: Island Moments;
+}
+p1
+{
+    color:yellow;
+    font-family:Oswald;
+}
+.img
+{
+    border:20px;
+    border-color:aquamarine;
+    border-style: dashed;
+}
